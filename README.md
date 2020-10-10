@@ -1,7 +1,7 @@
 # OpenGL-SimpleSolarSystem
 ![Alt Text](https://media.giphy.com/media/RfASwDX7J9I0wv5sJb/giphy.gif)
 
-Simple toy project for learn basics of OpenGL. Helpful to learn these consepts
+Toy project to learn the basics of OpenGL. Helpful to learn these concepts
 * Scaling
 * Basic Rotations
 * Drawing and OpenGL Skeleton
@@ -9,7 +9,7 @@ Simple toy project for learn basics of OpenGL. Helpful to learn these consepts
 
 
 
-This method to draw circles. Step represent number of edges drawn circle have. To have perfect circle increased step number
+I am using this method to draw circles. Step represents the number of edges drawn circle has
 ```
 void drawCircle(int steps, float red, float green, float blue) { _// Simple Circle Draw Method._
 
